@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\AlgoritmaPratik\AlgoritmaPratik\bin\Debug\net5.0\AlgoritmaPratik.exe
+C:\Users\User\source\repos\AlgoritmaPratik\AlgoritmaPratik\bin\Debug\net5.0\AlgoritmaPratik.deps.json
+C:\Users\User\source\repos\AlgoritmaPratik\AlgoritmaPratik\bin\Debug\net5.0\AlgoritmaPratik.runtimeconfig.json
+C:\Users\User\source\repos\AlgoritmaPratik\AlgoritmaPratik\bin\Debug\net5.0\AlgoritmaPratik.runtimeconfig.dev.json
+C:\Users\User\source\repos\AlgoritmaPratik\AlgoritmaPratik\bin\Debug\net5.0\AlgoritmaPratik.dll
+C:\Users\User\source\repos\AlgoritmaPratik\AlgoritmaPratik\bin\Debug\net5.0\ref\AlgoritmaPratik.dll
+C:\Users\User\source\repos\AlgoritmaPratik\AlgoritmaPratik\bin\Debug\net5.0\AlgoritmaPratik.pdb
+C:\Users\User\source\repos\AlgoritmaPratik\AlgoritmaPratik\obj\Debug\net5.0\AlgoritmaPratik.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AlgoritmaPratik\AlgoritmaPratik\obj\Debug\net5.0\AlgoritmaPratik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AlgoritmaPratik\AlgoritmaPratik\obj\Debug\net5.0\AlgoritmaPratik.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AlgoritmaPratik\AlgoritmaPratik\obj\Debug\net5.0\AlgoritmaPratik.AssemblyInfo.cs
+C:\Users\User\source\repos\AlgoritmaPratik\AlgoritmaPratik\obj\Debug\net5.0\AlgoritmaPratik.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AlgoritmaPratik\AlgoritmaPratik\obj\Debug\net5.0\AlgoritmaPratik.dll
+C:\Users\User\source\repos\AlgoritmaPratik\AlgoritmaPratik\obj\Debug\net5.0\ref\AlgoritmaPratik.dll
+C:\Users\User\source\repos\AlgoritmaPratik\AlgoritmaPratik\obj\Debug\net5.0\AlgoritmaPratik.pdb
+C:\Users\User\source\repos\AlgoritmaPratik\AlgoritmaPratik\obj\Debug\net5.0\AlgoritmaPratik.genruntimeconfig.cache

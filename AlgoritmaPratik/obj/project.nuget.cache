@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DI7F9bbdqvgNYDYa0j0NcgElhThMWBjdduKZTBzOVX9wYqbl1SgA92AXCQIIaCzN1lse+C7mYMIxuczw5Cd3lA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\AlgoritmaPratik\\AlgoritmaPratik\\AlgoritmaPratik.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\5.0.14\\microsoft.netcore.app.host.win-x86.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
